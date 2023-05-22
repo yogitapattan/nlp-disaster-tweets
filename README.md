@@ -14,3 +14,5 @@ Some real-time applications of this project:
 1. Disaster Monitoring and Early Warning Systems: The developed model can be integrated into a real-time monitoring system to analyze tweets and identify potential disaster situations. It can help disaster relief organizations and emergency response teams receive early warnings and take proactive measures.
 
 2. News and Media Analysis: Media organizations can utilize the model to automatically classify tweets related to disasters. This can aid in real-time news coverage and provide accurate and timely information to the public during emergency situations.
+
+Link to Dataset: https://www.kaggle.com/competitions/nlp-getting-started/data
